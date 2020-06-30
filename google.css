@@ -1,0 +1,108 @@
+
+
+#conteneur
+{
+	flex-wrap: nowrap;
+	background-color: ;
+	display: flex;
+	 justify-content: flex-end;
+}
+
+.gmail{
+	color: black;
+	margin-top: 8px;
+	padding-right: 0px; 
+	margin: 10px;
+}
+.googleimage{
+	margin-top: 8px;
+	padding-right: 10px; 
+	margin: 10px;
+
+}
+
+.apli
+{
+	padding-right: 12px;
+
+	margin-top: 12px;
+}
+
+#main{
+	display: flex;
+	flex-direction: column;
+	margin-top: 20px;
+	align-items: center;	
+
+}
+.langue{
+	margin-left: 150px;
+	margin-top: 20px;
+
+
+}
+
+
+a{
+	color: black;
+	border:none;
+}
+
+.barre{
+	padding-bottom: 10px;
+	padding-top: 10px;
+	width: 500px;
+	border-radius: 20px/20px;
+}
+
+.boutons{
+
+	margin-left: 150px;
+	display: flex;
+
+	align-self: flex-start;
+}
+.bouton1
+{
+	margin-right: 5px;
+	padding: 10px 10px 10px 10px;
+	background-color: rgb(242,242,242);
+
+	border: none;
+}
+.bouton2
+{
+	margin-left: 5px;
+	padding: 10px 10px 10px 10px;
+	background-color: rgb(242,242,242);
+
+	border: none;
+
+
+
+}
+#footerall{
+	margin-top: 0px;
+	display: flex; 
+	justify-content: space-between;
+}
+.footer1{
+	margin-top: 380px;
+	display: flex;
+	height: 50px;
+	align-items: flex-end;
+	background-color: rgb(242,242,242);
+}
+.footer2{
+	margin-top: 0px;
+
+	background-color: rgb(242,242,242);
+
+}
+
+.footer3{
+	margin-top: 0px;
+	background-color: rgb(242,242,242);
+
+}
+	
